@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>laser_ray.jpg</file>
+        <file>m_falcon.jpg</file>
+        <file>tie_fighter.jpg</file>
+        <file>attack_ray.jpg</file>
+        <file>star_wars_logo.jpg</file>
+        <file>star_background.jpg</file>
+        <file>DEATH-STAR_510x510.jpg</file>
+        <file>ImpStarDestroyer-SWI125.jpg</file>
+        <file>Tie_Interceptor1.jpg</file>
+        <file>aboard_falcon.jpg</file>
+        <file>coollogo_com-25964708.jpg</file>
+        <file>nooooooooo.jpg</file>
+        <file>captured.jpg</file>
+        <file>Yoda.jpg</file>
+        <file>x_wing.bmp</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Imperial March.mp3</file>
+    </qresource>
+</RCC>
